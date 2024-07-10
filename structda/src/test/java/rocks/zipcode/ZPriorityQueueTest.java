@@ -9,7 +9,7 @@ import java.util.NoSuchElementException;
 
 public class ZPriorityQueueTest {
 
-    private ZPriorityQueue<String> queue;
+    private ConcreteZPriorityQueue<Object> queue;
 
     @Before
     public void setup() {
