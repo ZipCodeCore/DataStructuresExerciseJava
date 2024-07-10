@@ -17,3 +17,4 @@ public interface ZStack<T> {
     // Returns the number of elements in the stack
     int size();
 }
+

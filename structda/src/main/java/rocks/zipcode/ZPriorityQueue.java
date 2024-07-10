@@ -22,7 +22,7 @@ public interface ZPriorityQueue<E> {
      * @return the highest priority element
      * @throws NoSuchElementException if this priority queue is empty
      */
-    E peek(, Integer priority);
+    E peek(Integer priority);
 
     /**
      * Returns the number of elements in this priority queue.
@@ -36,7 +36,7 @@ public interface ZPriorityQueue<E> {
      *
      * @return the number of elements at this priority
      */
-    int size(Integer priority)
+    int size(Integer priority);
 
     /**
      * Returns true if this priority queue contains no elements.
@@ -45,3 +45,4 @@ public interface ZPriorityQueue<E> {
      */
     boolean isEmpty();
 }
+
