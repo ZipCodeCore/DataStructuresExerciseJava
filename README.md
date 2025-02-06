@@ -18,6 +18,6 @@ It also gives you a chance to see how the Java Collections Framework is implemen
 And HEY, you also get to work with implementing a generic concrete class. 
 (Which can be hard to find a reason to practice with writing generics.)
 
-Use Jdk11
+Use Jdk11+ (jdk17 is good)
 
 #### You're Welcome!
